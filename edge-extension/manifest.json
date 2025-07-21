@@ -1,0 +1,13 @@
+{
+  "name": "CSP Signer Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Test extension to communicate with native signer",
+  "permissions": ["nativeMessaging"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

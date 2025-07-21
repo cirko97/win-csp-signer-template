@@ -1,0 +1,9 @@
+{
+  "name": "com.mycompany.csp_signer",
+  "description": "Native host for accessing Windows CSP certificates",
+  "path": "C:\\Users\\Cirko\\Downloads\\win-csp-signer-template\\signer.cmd",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hdbhanhckcglijcdjhlpaaoimhjhaman/"
+  ]
+}
